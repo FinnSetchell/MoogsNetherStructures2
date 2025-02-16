@@ -10,5 +10,6 @@
     "salt": 887221321,
     "spacing": 40,
     "separation": 37
+    "min_distance_from_world_origin": 200
   }
 }

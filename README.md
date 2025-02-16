@@ -25,13 +25,13 @@ _**Fabric** mods are marked with **BETA** so that they show up on the side, but 
 
 **ABOUT**
 
-Moogs Voyager Structures brings life, fun and variety to your Minecraft world! Explore awesome new structures made with vanilla blocks and entities, and discover loot, enemies, and villagers along the way. This mod is compatible with any modpack and keeps the vanilla feel of the game!
+Moogs Nether Structures brings life, fun and variety to your Minecraft world! Explore awesome new structures made with vanilla blocks and entities, and discover loot, enemies, and villagers along the way. This mod is compatible with any modpack and keeps the vanilla feel of the game!
 
-To see all of the structures, head to the [images tab](https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures/screenshots) or the [imgur post](https://imgur.com/gallery/Gypu4hD)
+To see all of the structures, head to the [images tab](https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures/screenshots) or the [imgur post](https://imgur.com/gallery/Gypu4hD)
 
 **Config pack**
 
-[link](https://www.curseforge.com/minecraft/texture-packs/mns-moogs-voyager-structure-config-pack)
+[link](https://www.curseforge.com/minecraft/texture-packs/mns-moogs-nether-structure-config-pack)
 
 A datapack you can use to configure the mod.
 
