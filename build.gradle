@@ -175,7 +175,7 @@ publishMods {
             file = tasks.named('buildDatapack').flatMap { it.archiveFile }
             displayName = "MNS Config Pack ${project.version}-${mcVersion}"
             announcementTitle = "Download the Config Pack on CurseForge"
-            client = true
+            server = true
             minecraftVersionRange {
                 start = project.findProperty('publishMcStart')
                 end = project.findProperty('publishMcEnd')
